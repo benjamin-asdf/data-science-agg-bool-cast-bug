@@ -1,4 +1,5 @@
-For reproducing a bug with dataset https://github.com/techascent/tech.ml.dataset
+For reproducing a bug with dataset
+https://github.com/techascent/tech.ml.dataset/issues/312
 
 1) pull repo, I just put nippy example issue data into the repo
 2) load issue.clj
